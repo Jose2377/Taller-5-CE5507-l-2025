@@ -6,7 +6,7 @@ b. Descripción general
 
 c. Usuario objetivo: Estudiantes y Académicos, Desarrolladores de visualización de datos, Médicos, Enfermeros
 
-## d. Entradas
+d. Entradas: Botón de interrupción para cambiar modo de operación
 
-## e. Salidas
+e. Salidas: 
 
