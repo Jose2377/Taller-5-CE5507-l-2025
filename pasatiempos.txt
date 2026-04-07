@@ -1,8 +1,6 @@
-Pasatiempos de Jose Maria:
-    Inventar la cura al cancer
 
-    Cocinar
+Pasatiempos de Jose Maria: 	| Jose Manuel:
+    Cocinar			| Leer
+    Existir			| Ver series
+    Jugar			| Escuchar musica
 
-    Existir
-
-    Jugar
